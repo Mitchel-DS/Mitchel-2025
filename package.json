@@ -1,7 +1,7 @@
 {
   "name": "mitchel-2025",
   "version": "1.0.0",
-  "description": "New, improved portofolio for 2025. It was due an upgrade.",
+  "description": "New, improved portfolio for 2025. It was due for an upgrade.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
