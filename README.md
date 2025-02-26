@@ -1,2 +1,2 @@
 # Mitchel-2025
-New, improved portofolio for 2025. It was due an upgrade.
+New, improved portfolio for 2025. It was due for an upgrade.
